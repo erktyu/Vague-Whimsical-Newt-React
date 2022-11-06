@@ -16,7 +16,7 @@ const Home = (props) => {
       <Header></Header>
       <div className="home-hero">
         <div className="home-container1">
-          <h1 className="home-text">Magnificent things are very simple</h1>
+          <h1 className="home-text">Magnificent things are very simple-thisComes from git-</h1>
           <span className="home-text1">
             <span>
               <span>
